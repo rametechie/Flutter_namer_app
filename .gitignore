@@ -1,0 +1,15 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+flutter_*.png
+.pub-cache/
+build/
+# Android
+android/app/build/
+*.apk
+*.aab
+.gradle/
+# iOS
+ios/Pods/
+DerivedData/
+EOF
